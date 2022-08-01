@@ -1,0 +1,431 @@
+﻿++Solución "ApiBiblioteca" ‎(3 de 3 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:ApiBiblioteca.sln
+++ApiBiblioteca.DTO
+i:{00000000-0000-0000-0000-000000000000}:ApiBiblioteca.DTO
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Properties
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\properties\
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\properties\
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\properties\
+++Referencias
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++EntityFramework
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++EntityFramework.SqlServer
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Microsoft.CSharp
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.ComponentModel.DataAnnotations
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Configuration
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Data
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Data.DataSetExtensions
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Drawing
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.EnterpriseServices
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+++System.Net.Http
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Net.Http.Extensions
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Net.Http.Primitives
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Net.Http.WebRequest
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.ApplicationServices
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.DynamicData
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Entity
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Extensions
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Services
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+++System.Xml
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Xml.Linq
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++DTOs
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\dtos\
+++AuthorDTO.cs
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\dtos\authordto.cs
+++MapperConfig.cs
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\dtos\mapperconfig.cs
+++Models
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\models\
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\models\
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\models\
+++Author.cs
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\models\author.cs
+++Book.cs
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\models\book.cs
+++Context.cs
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\context.cs
+++packages.config
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\packages.config
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\packages.config
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\packages.config
+++Web.config
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\web.config
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\web.config
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\web.config
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\views\web.config
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\web.config
+++AssemblyInfo.cs
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\properties\assemblyinfo.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\properties\assemblyinfo.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\properties\assemblyinfo.cs
+++Web.Debug.config
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\web.debug.config
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\web.debug.config
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\web.debug.config
+++Web.Release.config
+i:{03f8bc2e-c411-4a2b-8b17-800407506e3f}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.dto\web.release.config
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\web.release.config
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\web.release.config
+++ApiBiblioteca.services
+i:{00000000-0000-0000-0000-000000000000}:ApiBiblioteca.services
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Repositories
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\repositories\
+++Services
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\services\
+++Implements
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\repositories\implements\
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\services\implements\
+++IAuthorRepository.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\repositories\iauthorrepository.cs
+++IBookRepository.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\repositories\ibookrepository.cs
+++IGenericRepository.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\repositories\igenericrepository.cs
+++IAuthorService.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\services\iauthorservice.cs
+++IBookService.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\services\ibookservice.cs
+++IGenericService.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\services\igenericservice.cs
+++AuthorRepository.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\repositories\implements\authorrepository.cs
+++BookRepository.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\repositories\implements\bookrepository.cs
+++GenericRepository.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\repositories\implements\genericrepository.cs
+++AuthorService.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\services\implements\authorservice.cs
+++BookService.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\services\implements\bookservice.cs
+++GenericService.cs
+i:{402de63a-bd58-4652-80ce-05c99f9f7e42}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca.services\services\implements\genericservice.cs
+++ApiBiblioteca
+i:{00000000-0000-0000-0000-000000000000}:ApiBiblioteca
+++Antlr3.Runtime
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Microsoft.AspNet.Identity.Core
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Microsoft.AspNet.Identity.Owin
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Microsoft.Owin
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Microsoft.Owin.Security
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Microsoft.Owin.Security.Cookies
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Microsoft.Owin.Security.OAuth
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Microsoft.Web.Infrastructure
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Newtonsoft.Json
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++Owin
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Net.Http.Formatting
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Runtime.Serialization
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Security
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Abstractions
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Helpers
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Http
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Http.WebHost
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Mvc
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Optimization
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Razor
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.Routing
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.WebPages
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.WebPages.Deployment
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++System.Web.WebPages.Razor
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++WebGrease
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:
+++App_Data
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\app_data\
+++App_Start
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\app_start\
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\app_start\
+++Areas
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\
+++Content
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\
+++Controllers
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\controllers\
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\controllers\
+++fonts
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\fonts\
+++Scripts
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\
+++Views
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\views\
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\
+++favicon.ico
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\favicon.ico
+++Global.asax
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\global.asax
+++Startup.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\startup.cs
+++BundleConfig.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\app_start\webapiconfig.cs
+++HelpPage
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\
+++bootstrap-theme.css
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\bootstrap.css
+++bootstrap.css.map
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\bootstrap.css.map
+++bootstrap.min.css
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\bootstrap.min.css.map
+++Site.css
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\content\site.css
+++HomeController.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\controllers\homecontroller.cs
+++ValuesController.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\controllers\valuescontroller.cs
+++glyphicons-halflings-regular.eot
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\bootstrap.js
+++bootstrap.min.js
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\scripts\modernizr-2.8.3.js
+++Home
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\views\home\
+++Shared
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\views\shared\
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\shared\
+++_ViewStart.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\views\_viewstart.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\_viewstart.cshtml
+++Global.asax.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\global.asax.cs
+++ModelDescriptions
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\
+++SampleGeneration
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\samplegeneration\
+++ApiDescriptionExtensions.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\apidescriptionextensions.cs
+++HelpPage.css
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\helppage.css
+++HelpPageAreaRegistration.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\helppagearearegistration.cs
+++HelpPageConfigurationExtensions.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\helppageconfigurationextensions.cs
+++XmlDocumentationProvider.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\xmldocumentationprovider.cs
+++Index.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\views\home\index.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\index.cshtml
+++_Layout.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\views\shared\_layout.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\shared\_layout.cshtml
+++Error.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\views\shared\error.cshtml
+++HelpPageConfig.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\app_start\helppageconfig.cs
+++HelpController.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\controllers\helpcontroller.cs
+++CollectionModelDescription.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\collectionmodeldescription.cs
+++ComplexTypeModelDescription.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\complextypemodeldescription.cs
+++DictionaryModelDescription.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\dictionarymodeldescription.cs
+++EnumTypeModelDescription.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\enumtypemodeldescription.cs
+++EnumValueDescription.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\enumvaluedescription.cs
+++IModelDocumentationProvider.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\imodeldocumentationprovider.cs
+++KeyValuePairModelDescription.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\keyvaluepairmodeldescription.cs
+++ModelDescription.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\modeldescription.cs
+++ModelDescriptionGenerator.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\modeldescriptiongenerator.cs
+++ModelNameAttribute.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\modelnameattribute.cs
+++ModelNameHelper.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\modelnamehelper.cs
+++ParameterAnnotation.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\parameterannotation.cs
+++ParameterDescription.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\parameterdescription.cs
+++SimpleTypeModelDescription.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\modeldescriptions\simpletypemodeldescription.cs
+++HelpPageApiModel.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\models\helppageapimodel.cs
+++HelpPageSampleGenerator.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\samplegeneration\helppagesamplegenerator.cs
+++HelpPageSampleKey.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\samplegeneration\helppagesamplekey.cs
+++ImageSample.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\samplegeneration\imagesample.cs
+++InvalidSample.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\samplegeneration\invalidsample.cs
+++ObjectGenerator.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\samplegeneration\objectgenerator.cs
+++SampleDirection.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\samplegeneration\sampledirection.cs
+++TextSample.cs
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\samplegeneration\textsample.cs
+++Help
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\
+++DisplayTemplates
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\
+++Api.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\api.cshtml
+++ResourceModel.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\resourcemodel.cshtml
+++ApiGroup.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\apigroup.cshtml
+++CollectionModelDescription.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\collectionmodeldescription.cshtml
+++ComplexTypeModelDescription.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\complextypemodeldescription.cshtml
+++DictionaryModelDescription.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\dictionarymodeldescription.cshtml
+++EnumTypeModelDescription.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\enumtypemodeldescription.cshtml
+++HelpPageApiModel.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\helppageapimodel.cshtml
+++ImageSample.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\imagesample.cshtml
+++InvalidSample.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\invalidsample.cshtml
+++KeyValuePairModelDescription.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\keyvaluepairmodeldescription.cshtml
+++ModelDescriptionLink.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\modeldescriptionlink.cshtml
+++Parameters.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\parameters.cshtml
+++Samples.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\samples.cshtml
+++SimpleTypeModelDescription.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\simpletypemodeldescription.cshtml
+++TextSample.cshtml
+i:{37716c4e-b09a-4f9b-a5a0-193abf994b22}:d:\jorge\mis proyectos\apibiblioteca\apibiblioteca\apibiblioteca\areas\helppage\views\help\displaytemplates\textsample.cshtml
